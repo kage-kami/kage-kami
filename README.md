@@ -7,15 +7,18 @@
 
 ---
 
-### 🚀 Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=fff)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=fff)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff)
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff" />
+</p>
 
 ---
 
