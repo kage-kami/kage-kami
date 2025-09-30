@@ -9,50 +9,40 @@
 
 <!-- ===== صورة غامضة لمبرمج ===== -->
 <p align="center">
-  <img src="https://camo.githubusercontent.com/8e2bc0135b65bf2a9255f2d14b15d35bfd9280b8848e2d400102accf8f96115b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a457864484d304f4464305a4777344e4773345a5870785a6d396c614846304d334d3062325273647a49354e6d74734d5768785a326c6c63535a6c634431324d56396e61575a7a58334e6c59584a6a61435a6a6444316e2f48303350755664775245423231414e6b4c582f67697068792e676966" alt="Dark Programmer" width="400"/>
+  <img src="https://camo.githubusercontent.com/8e2bc0135b65bf2a9255f2d14b15d35bfd9280b8848e2d400102accf8f96115b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a457864484d304f4464305a4777344e4773345a5870785a6d396c614846304d334d3062325273647a49354e6d74734d5768785a326c6c63535a6c634431324d56396e61575a7a58334e6c59584a6a61435a6a6444316e2f48303350755664775245423231414e6b4c582f67697068792e676966" alt="Dark Programmer" width="420"/>
 </p>
 
 ---
 
-<!-- ===== Tech Stack ===== -->
-<h2 align="left">🛠️ Tech Arsenal</h2>
+<!-- ===== Goated in (tech) ===== -->
+<h2 align="left">🔥 Goated in</h2>
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="VSCode" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <!-- استبدل أو أضف/احذف حسب اللي تبي -->
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="VSCode" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-2B2B2B?style=flat-square&logo=linux&logoColor=white" />
 </p>
 
 ---
 
-<!-- ===== Quote ===== -->
-<h2 align="left">🕶️ Quote</h2>
+<!-- ===== Quote more mysterious ===== -->
+<h2 align="left">🕶️ Cipher Line</h2>
+<p align="center" style="font-style:italic">
+  "In the void between pulses, I plant algorithms — they bloom only at midnight."
+</p>
+
+---
+
+<!-- ===== مكان لصورة بدل Featured Repos ===== -->
+<h2 align="left">🌑 Visual</h2>
 <p align="center">
-  <em>"In the dark of the digital void, I carve paths unseen.  
-  Silence is my shield, code is my blade."</em>
+  <!-- ضع هنا مسار الصورة اللي تبيها. مثال: /assets/my-dark-shot.png أو رابط خارجي -->
+  <img src="https://w.wallhaven.cc/full/73/wallhaven-73rdo3.jpg" alt="Your visual" width="720" style="max-width:100%;border-radius:8px;box-shadow:0 8px 30px rgba(0,0,0,0.6)"/>
 </p>
-
----
-
-<!-- ===== Contact ===== -->
-<h2 align="left">🌌 Connect with Me</h2>
-<p align="left">
-  <a href="https://github.com/your-username"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/your-twitter"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
-
----
-
-<!-- ===== Featured Projects ===== -->
-<h2 align="left">🚀 Featured Repos</h2>
-
-- 🔥 [Epic-Project](https://github.com/your-username/Epic-Project) — مشروع رهيب للتجارب.
-- 🧩 [Algo-Master](https://github.com/your-username/Algo-Master) — خوارزميات & تحديات.
-- 🌑 [Dark-WebApp](https://github.com/your-username/Dark-WebApp) — تطبيق ويب مظلم وغامض.
 
 ---
 
