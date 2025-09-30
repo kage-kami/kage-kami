@@ -1,4 +1,5 @@
 <h1 align="center">Hello Friend</h1>
+color-txt : #111
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=0xN04E3X1ST00;+" alt="Typing SVG" />
 </p>
