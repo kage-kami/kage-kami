@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Hello-Friend-00ffcc?style=for-the-badge&logo=github" />
-</p>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
+  Hello Friend
+</h1>
+
 
 
 ---
